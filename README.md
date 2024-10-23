@@ -49,4 +49,4 @@ This interactive program helps users practice their multiplication skills by ask
 - Generates random multiplication problems between 1 and 10.
 
 ### Example
-What is the result of 6 * 7? Correct answer! Do you want to continue? (Y - Yes, N - No): N
+What is the result of 6 * 7?42 Correct answer! Do you want to continue? (Y - Yes, N - No): N
