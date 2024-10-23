@@ -13,8 +13,8 @@ This program calculates employee salaries based on hours worked and hourly wage.
 - Input validation to allow users to exit by typing `-1`.
 
 ### Example
-Please enter the number of hours worked: 45 
-Please enter the hourly wage: 20 
+Please enter the number of hours worked: 45,
+Please enter the hourly wage: 20,
 The total salary for the employee is: 950
 
 
