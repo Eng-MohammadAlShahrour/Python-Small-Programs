@@ -1,4 +1,4 @@
-1-Project 1 - Salary Calculation Program 
+## 1-Project 1 - Salary Calculation Program 
 # Squeeze Juice Company Employee Salary Calculator
 
 This program calculates employee salaries based on hours worked and hourly wage. It includes overtime calculation for hours worked beyond 40.
@@ -18,7 +18,7 @@ Please enter the hourly wage: 20
 The total salary for the employee is: 950
 
 
-2-Project 2 - Largest Three Numbers Finder
+## 2-Project 2 - Largest Three Numbers Finder
 # Largest Three Numbers Finder
 
 This program finds the three largest numbers out of 10 numbers inputted by the user.
@@ -33,7 +33,7 @@ This program finds the three largest numbers out of 10 numbers inputted by the u
 Number 1: 4 Number 2: 9 ... The largest three numbers are: 9, 8, 7
 
 
-3-Project 3 - Multiplication Table Learning Program
+## 3-Project 3 - Multiplication Table Learning Program
 # Multiplication Table Learning Program
 
 This interactive program helps users practice their multiplication skills by asking them to solve random multiplication problems.
