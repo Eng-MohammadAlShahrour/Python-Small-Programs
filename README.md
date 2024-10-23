@@ -13,7 +13,10 @@ This program calculates employee salaries based on hours worked and hourly wage.
 - Input validation to allow users to exit by typing `-1`.
 
 ### Example
-Please enter the number of hours worked: 45 Please enter the hourly wage: 20 The total salary for the employee is: 950
+Please enter the number of hours worked: 45 
+Please enter the hourly wage: 20 
+The total salary for the employee is: 950
+
 
 2-Project 2 - Largest Three Numbers Finder
 # Largest Three Numbers Finder
@@ -28,6 +31,7 @@ This program finds the three largest numbers out of 10 numbers inputted by the u
 - Validates input to ensure only numbers are entered.
 ### Example
 Number 1: 4 Number 2: 9 ... The largest three numbers are: 9, 8, 7
+
 
 3-Project 3 - Multiplication Table Learning Program
 # Multiplication Table Learning Program
